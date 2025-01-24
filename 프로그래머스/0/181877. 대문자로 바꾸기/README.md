@@ -1,10 +1,10 @@
 # [level 0] 대문자로 바꾸기 - 181877 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181877) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=csharp) 
 
 ### 성능 요약
 
-메모리: 83.8 MB, 시간: 0.03 ms
+메모리: 31.3 MB, 시간: 0.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 12일 08:29:27
+2025년 01월 24일 12:34:31
 
 ### 문제 설명
 
